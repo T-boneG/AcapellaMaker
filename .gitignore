@@ -90,3 +90,6 @@ ENV/
 
 # Pycharm stuff
 .idea
+
+# test files
+test_files/*.wav
