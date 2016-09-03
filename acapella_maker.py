@@ -51,6 +51,7 @@ t1 = np.arange(0, len(wavs_OG[0])).astype(float) / float(fs_OG)
 plt.plot(t1, wavs_OG[0])
 
 # TODO CONTINUE HERE
+# convert mp3s to small clips
 # resample wavs_OPP
 # write audio_write()
 # write out 1 minus other
